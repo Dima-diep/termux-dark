@@ -1,0 +1,56 @@
+Package: linux2
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: curl,proot,tar
+Filename: ./linux2_1.0_all.deb
+Size: 1808
+MD5sum: db3a943e0a4d466b1734a83c174fa086
+SHA1: 7ff5123af74a3592753069c0b300dbd85240d6db
+SHA256: 645797375362b8315f8c568b8aaeb0bf5c54819e11de46738db78dfc2172608e
+SHA512: 96cafc8229793186364fbd381c3f6a0511084a9d582b31857950a21362223248facf78becbcd2c3a354731e586d093f43a203d69545bcfe40271694a0d87c8fc
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Installer proot-system in Termux
+
+Package: linux
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: curl,wget,proot,tar
+Filename: ./linux_1.0_all.deb
+Size: 1740
+MD5sum: fd06d346e3cac4a5048d773cbe321c3a
+SHA1: 3f04504ef41cc10661b5b2822879e6b6c8272afa
+SHA256: c0d38b0e1ec6f423d44ef3e71fca31cc1d2f7020d897e6944f92da69c8d28f8c
+SHA512: 2f1c9bb6b3fb854b260e0e4d0e70b459d900bb5c4203d414a2bfcf790c689450bff966437f2c3788045bd6b0274314ceb74af806e1e3801f92c85b92019a7a88
+Homepage: https://github.com/Dima-diep/termux-dark
+Description: Installer proot-system in Termux
+
+Package: msfinstall
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: ruby2,postgresql
+Filename: ./msfinstall_1.0_all.deb
+Size: 980
+MD5sum: 0f2f11dbe2b49aa9dac520ad3b0ed8e7
+SHA1: df18cc8832331c676444b791282610ddac090a44
+SHA256: 3ebbe980211b46ce7c8e47df4dc14fc311451ad1fe6b7542b4a1e344a58c97a2
+SHA512: c62569d801e10bc6be5f385eae69ebe8aeb92dc7b6e9c23a2d9d849a3b6a8b544039f3de4658056a12cfa98672e1d335e98618a444904e433496635a8778477f
+Homepage: http://github.com/Dima-diep/Metasploit
+Description: Installer Metasploit Framework for Termux
+
+Package: zenmap
+Architecture: all
+Version: 1.0
+Maintainer: @Dima-diep
+Depends: nmap
+Filename: ./zenmap_1.0_all.deb
+Size: 1096
+MD5sum: b034f9f198820a09e1d930c409a8ba82
+SHA1: 86e70a032bd594f17c1dc84c3e4cf6b75a56fe20
+SHA256: a43cbd197f911bb0c4aa93b6f80c89622661c38a3a218cb877fcb075931a420a
+SHA512: 8f4015219473682282b5b122237b42ab14a8bedc73e5ec3308fa742e1e4f26de5b81c2b8625b198b8f1d3c3d389ffa8cfd2cf50cf7d16618d4e21640f65b61fc
+Homepage: http://github.com/Dima-diep/zenmap
+Description: Console version of Zenmap
+
