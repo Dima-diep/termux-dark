@@ -1,0 +1,13 @@
+Package: btop
+Architecture: i686
+Version: 1.0.6
+Maintainer: @Dima-diep
+Filename: ./btop_1.0.6_i686.deb
+Size: 1314708
+MD5sum: 0a5c7de215a2570e30e00c4c1cbf3cbd
+SHA1: b496ec56b493bf83dee96090d0bdc79fd9f45183
+SHA256: 54feca2c4550f2f751773b2045c6a8a712da3e1eab40cb675cc371a8d1a3ede0
+SHA512: 8416de0064bc84c1ba1589225b827de5217f29b99d9ed36ecf963ae16fc8025c17e95045108ecd6f7ac914f1572b216dc2ddeb5d2e00896442b5bf2dbe3d72fe
+Homepage: https://github.com/aristocratos/btop
+Description: Linux task manager
+
