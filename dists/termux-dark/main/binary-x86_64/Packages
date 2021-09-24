@@ -1,0 +1,13 @@
+Package: btop
+Architecture: x86_64
+Version: 1.0.6
+Maintainer: @Dima-diep
+Filename: ./btop_1.0.6_x86_64.deb
+Size: 1250544
+MD5sum: 3788795f3a3baa6c240b9e8eff47864a
+SHA1: 9c7f04eafcbee6f0785017a45395f0b75618040a
+SHA256: ccd408ad3cef1694ee97e989b4f572a1f2bb8e2c7ac194527694775aae1bf2bf
+SHA512: a1f375334b84438a483a9284e3b22cc3694fdf614e05ea9ef8fcd189810212bcb669440d42ed8a631fb88ba6cdeb2aa1641f80d6f73ab4fb897d4c0f05c4a4b2
+Homepage: https://github.com/aristocratos/btop
+Description: Linux task manager
+
