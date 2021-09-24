@@ -1,0 +1,13 @@
+Package: btop
+Architecture: arm
+Version: 1.0.6
+Maintainer: @Dima-diep
+Filename: ./btop_1.0.6_arm.deb
+Size: 1046884
+MD5sum: 1de0b5c9a1d7ef84e66c6f7ddc7ad655
+SHA1: 597871a3a79267d02ee2f9ede6a280ec857dedbe
+SHA256: d2bb4086d57d17a347b6a037bcafd3a824b23e05d572d9d62a3fa8730ad37bb9
+SHA512: ecf107142568840202642a7ac3f0aa3facdcdf468fc353831d20a1e7330b58874c64a243125d58d3b8d88baafbfa72fb73392f8486011caad965845fd4dc2180
+Homepage: https://github.com/aristocratos/btop
+Description: Linux task manager
+
