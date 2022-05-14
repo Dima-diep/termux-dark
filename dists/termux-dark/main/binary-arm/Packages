@@ -11,3 +11,42 @@ SHA512: ecf107142568840202642a7ac3f0aa3facdcdf468fc353831d20a1e7330b58874c64a243
 Homepage: https://github.com/aristocratos/btop
 Description: Linux task manager
 
+Package: busybox-magisk
+Architecture: arm
+Version: 1.34.1-Magisk
+Maintainer: @topjohnwu
+Installed-Size: 1402
+Filename: ./busybox-magisk_1.34.1-Magisk_arm.deb
+Size: 778920
+MD5sum: 966c74a88a800528b92a9667a5bb052a
+SHA1: f669f0ed7db9894ce10f81e85228f37f4c2b3bab
+SHA256: 3f55218ea4efe15bbc91607ccbca69f2e952685f8f153ceb713996b4761b8e94
+SHA512: 7632bdca4a761de879896bf39ae0bcf59ba7ee3f50978f5dbcd6cd769dd890701adba26e9b999d3e8044c1e6e76ca0f31d93930ecca33138ae5398846b3dade5
+Description: Magisk version of Busybox
+
+Package: busybox-meefik
+Architecture: arm
+Version: 1.34.1-meefik
+Maintainer: @meefik
+Installed-Size: 1412
+Filename: ./busybox-meefik_1.34.1-meefik_arm.deb
+Size: 699552
+MD5sum: ccf9f3ee4d87819a05a1833481ed1ee9
+SHA1: 40241628bcc19ccf0ed3d635a216c6384cc51572
+SHA256: 5acd1fe2598bffc979cda997213a42e93a65bca142be6634b1fe2accb2a38cef
+SHA512: 09b633846b17c4c04e02aff8fe09255de10944337da711021c818c8928cea2521aa4f1d4ba14019e9a461462f08be3100a4b28e88df499d7d7240900188552bc
+Description: Meefik version of Busybox
+
+Package: upx
+Architecture: arm
+Version: 3.96
+Maintainer: @upx
+Installed-Size: 380
+Filename: ./upx_3.96_arm.deb
+Size: 389072
+MD5sum: 84a616740e8765e6b3831ac7fe4bb8b4
+SHA1: 48e2d3539c2b9904f5fd7b8be90f7ea289423373
+SHA256: 9a18176ebaa6f1d315f0e3e60f4b90649663e8687bd177f0fefc0e5220212f71
+SHA512: 34520070785e579f0bdc70e5db266578b861007c05f48dc3394c2872a8f82d6ffc9f29181b0b4bc6721c2d5c160909d186fb1eebd7e3ab3d25d5d3ff8ffe8a27
+Description: Reverse engineering tool
+
