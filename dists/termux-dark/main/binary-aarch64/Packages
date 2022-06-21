@@ -37,6 +37,32 @@ SHA256: 25450b862e2b6288d4e70374986fcf6ac78fc7d106f5a54edd2d39d438b9e602
 SHA512: b9312d6b46c33f425b7b917f16c88a093eecf63be766c884a1e64e7498c73546b09877a0b2022988358c1cd4007457c22557a7f7de3da91adce3dbae3d60c116
 Description: Meefik version of Busybox
 
+Package: chunkfs-fuse
+Architecture: aarch64
+Version: 0.8
+Maintainer: @Dima-diep
+Installed-Size: 912
+Filename: ./chunkfs-fuse_0.8_arm64.deb
+Size: 323068
+MD5sum: 770303dc48f2928b1d5547329da8ed0c
+SHA1: be88f11b4ea4664045374e09cc33163e1872a7b7
+SHA256: 39304802852da0d3690be57d6d8eaac15fce4b4cd4633b1b5aabb92e4b7a35f3
+SHA512: 6e4bdc74a45542be5a5291d56c8abbc1ccac1e94a3f51a224595af99fb291a113708630a03592fa25ef448a04b3b1b497b8ba9841a8900ef8a54281e877f75a2
+Description: FUSE chunkfs mounter
+
+Package: exfatprogs
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 2372
+Filename: ./exfatprogs_arm64.deb
+Size: 304224
+MD5sum: b804b702839e7ec46e28e0396e6d9cc0
+SHA1: 6e34a2c9d2dbcfc3191cf2a185a5d014e4db9881
+SHA256: 809f8c446d548b6c99e6366ed1c9c3fb5492e80935fb920046853b1a4281e40a
+SHA512: 87017e4623781728016cd564cc2650728760a71c5f199a0ffed5972128487c41cee306fd58b04c2908eecfa01e4f0bfc284a249d02443bf27d216582054aed56
+Description: exFAT static-built utilities
+
 Package: geomac
 Architecture: aarch64
 Version: 0.1
@@ -51,6 +77,189 @@ SHA256: fb022ea370cb7b548b2ac3a3c7e480459fa65a840aa758831d4662cddae0ec50
 SHA512: 6ee77c88e5f867b4aa1c1e0d3dc092c6c37303762956086c89e9385f1056893d23bbf998342f10c2bd704063361b16e717a652c208d1ddf1552c18fa712db56c
 Homepage: https://drygdryg.github.io/geomac-webpage
 Description: A simple program to get geolocation of Wi-Fi access points by their BSSIDs
+
+Package: hex2dec
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 37
+Filename: ./hex2dec-arm64.deb
+Size: 12996
+MD5sum: 9180bb8a51e34cbac83f0ca2b4e933d8
+SHA1: 049be1e29694c9b2659945029f0538af16f86d9c
+SHA256: e791949adc797211833e61d9f2975157be2e3dc664e00308d252b64976a33ace
+SHA512: b3dbe23d118a0548ef4a3b2904335787d3f83d176c54aeae4177fb396f05bd12d5545c0f5842918e361e36ecec61d0acc1def5c5c6c7f17fef37d2bc001453f1
+Description: Converter HEX to DEC
+
+Package: httpfs2-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 955
+Filename: ./httpfs2-fuse_arm64.deb
+Size: 343196
+MD5sum: 12b349b1582dd166a7fc6c7f54d42395
+SHA1: 5720616cc472ba3bf05e1ad7cbeeed3fbb3f87b3
+SHA256: 5148cb27fd4ce8ca8f0e7ce9a4c652713d8e84b1afe30507e53cf462dc8746b5
+SHA512: d39c97c22c35d9aa926f1b253e55aa7b11fd2eceef4b6a10ce18845aed1b3967cbea9c3af694681e24d7fb56bbf58e3878e5bf0e18f1f250fc5cca3c879378e6
+Description: httpfs2 FUSE mounter
+
+Package: juicefs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 68782
+Filename: ./juicefs-fuse_arm64.deb
+Size: 15467772
+MD5sum: c1bd57d89cab65ccf7c8f43ce2edfd44
+SHA1: a5021337ec733f890c5257462fa2b3733ef3ef4e
+SHA256: 82be3343e7a8db233ecd76b0da537fe478ba5931e6d21faaf4c5465bc6373497
+SHA512: cb14ac300c868722d4ce76013ac9ec94aa42a6e51e5c2c29036406598c49f5c6a5471ab5191feb279e65ca79bcf49669d26e04ed6c7af36d0c772700d5edd51b
+Description: juicefs FUSE mounter
+
+Package: loggedfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 34005
+Filename: ./loggedfs-fuse_arm64.deb
+Size: 8712712
+MD5sum: 6c7bacf205a6cd1f2f7286f385f3c9fa
+SHA1: bb270a78e1e4412e45ba45c2b3d828a6af23e831
+SHA256: 2d421614a1b830a3922f0b71a68f635a201ada17e32e52c1c426493056b328be
+SHA512: 4108a42c06112ef6501ffc45d05b185db27826e4d5dbc58dc0603ca9646f6d662c3b5267993c53f2a227e16bc46294b9c171a61077391e458fc3c2d04b6eca35
+Description: loggedfs FUSE mounter
+
+Package: mergerfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 2032
+Filename: ./mergerfs-fuse_arm64.deb
+Size: 627316
+MD5sum: 0789bb68553468d0c4be69a6adf59659
+SHA1: 74e6f917a0a555d34735d32e18cab3eb7a7092ce
+SHA256: ac09d8086cb20d1b5f8535d9bfcea9b2f942ff6ff3ef87d746e50348945ff6ed
+SHA512: aeef1e6350cee669811ccd26c8165e740ab048ef2334896f67984edc04ccf878ad23b84daf3a56772f5a710bab50192a2b742ece3fe8dcef956d81a4b6dc5537
+Description: mergerfs FUSE mounter
+
+Package: mfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 920
+Filename: ./mfs-fuse_arm64.deb
+Size: 323008
+MD5sum: f6df514a9f241c55a1a4140870e6654c
+SHA1: beca34df3d73d6a751eaa323958d6f9a19922536
+SHA256: 9fbd29ba37ece685013ba4507269b79d10ee544fd9108dcd89fd6eee6ca546c2
+SHA512: 9ded8544244e19f70a94cc49ada09ce943c8131372bf0845b59ec796b0f8790d3f4ddabf838c1ef7d4cb39f86631363570aeb59d3af6a740d2d0b3db430c39eb
+Description: mfs FUSE mounter
+
+Package: mhddfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 932
+Filename: ./mhddfs-fuse_arm64.deb
+Size: 328488
+MD5sum: d261b1d1207c63db7ea25461c8ef2249
+SHA1: 59fefaf8f5627911b9ae96075267b580e8745021
+SHA256: 2ac8dab21f3222058f522f3374d7564022bbf26174aee343d2351d697af9f755
+SHA512: 46d81cf3f0afe588adf3689ec919cb72ee45422488c592f860763da5807b9f6c377b016dde5538a2c37e3021cd19b449595ccf7b4cc4e1d42f0e37df7bfc950f
+Description: mhddfs FUSE mounter
+
+Package: mkbootimg-static
+Architecture: arm64
+Version: 1.0
+Maintainer: Dima-diep
+Installed-Size: 1068
+Conflicts: mkbootimg, android-tools-mkbootimg
+Filename: ./mkbootimg-static-arm64.deb
+Size: 246468
+MD5sum: 7c63ffb367d5daa98e293cfc5aa7b8d8
+SHA1: 3743a90c3bda5a1c9992fdb60a3097920034f703
+SHA256: de4212cc96f74827ae96f3d4771c163f1363571ad91c6cf83bd48282bb82603a
+SHA512: ff1ad07381a5d179895beb46ba0bdb41a30449eb2bbea86732efe60f13c033d134550c02040dae11ae3b6522eb1a8b22d00e337c284bde5603b6c7add1feb817
+Description: Static bootimg utilities
+
+Package: ntfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 59
+Filename: ./ntfs-fuse_arm64.deb
+Size: 20420
+MD5sum: 293062e430c193b4b9bff1f1e52cb65a
+SHA1: 0bfb900ca40dc8fdbda448a4bf68efee318b615e
+SHA256: bca90cd3394bdbffb1cbadd17c214ef416083fc689798e24830a12bd6da6ed56
+SHA512: bdb95803131af77231a23e7832e96a1d2faacc47564fc2b068b9af2758ff570991e382a237098c03b9daebfce9d1d829c0f9aa15b411f72ca37e32f538718d57
+Description: FUSE NTFS mounter
+
+Package: ntfsprogs
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 11126
+Filename: ./ntfsprogs_arm64.deb
+Size: 863308
+MD5sum: 15798c0208de7752441ba8f2edf13b49
+SHA1: 795ac835749c9622dac319d793bdc97bcb736cb6
+SHA256: ae7717e611f9a5654c9e8a9dabd68f2a733d15a08175e2c5062fb7a92ff62ab6
+SHA512: 456f259c3a7102e1ccf2a5255cf12309516e7e429b3c8bd5b7baae9317234d6f42fde42b7a5ec938ee7f6be4392ae57b97145595c7cd265271928e253c998d47
+Description: NTFS static-built utils
+
+Package: overlayfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 960
+Filename: ./overlayfs-fuse_arm64.deb
+Size: 329612
+MD5sum: ac0e62203b3bd28cb627bdaed541ab04
+SHA1: db3298a7a6d3f0db86d2968f649f69e793c7b1c0
+SHA256: 76d59e23d4a4645c6090f3c8c633e29419e6da5b07663fe2b78d54dbf51b2c3d
+SHA512: e362bfedd191eb0e28f300b077f1875c2543ef4004e05bdd3f3845447684ff4ef782842ebadd64fe02e4bfb41d4993598a7947ec9e527ad78fc6fdf5e66c1dd1
+Description: FUSE overlayfs mounter
+
+Package: rotatefs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 887
+Filename: ./rotatefs-fuse_arm64.deb
+Size: 309432
+MD5sum: f022da0e469c302d5e1ad85db9acb21f
+SHA1: b136347ee5a7640177ffd931776221605eed00bd
+SHA256: 7ccfa876d2f7188b0aae59fc4ff2caecc02420901ced5f277b8a2c0d99428eeb
+SHA512: aff25ce4e341cad5807680f3b386dc706f2b62584630c6ba249b055d50ed37a66257e84ff5176f59177c62b90d2b1345f7d3ed51095e4b32b4edeba78cc1909c
+Description: rotatefs FUSE mounter
+
+Package: unionfs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 2350
+Filename: ./unionfs-fuse_arm64.deb
+Size: 544776
+MD5sum: 823da851f9a694539346102138aec98e
+SHA1: abab30387911f8fa624918202b3e811166158e86
+SHA256: 16e1e6368cc32a21946612986f537e3bba2fa47c047f9e7623c0188b55654b44
+SHA512: f80871ab2839f3d3c2c3ac9083a7b37ce0557bd464add77198a916dfa78c9abefb5c199b29e87a62b4c8b279d55927e4a12bcb307f9765f40043c23b317d9483
+Description: FUSE unionfs mounter
+
+Package: unreliablefs-fuse
+Architecture: aarch64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 1499
+Filename: ./unreliablefs-fuse_arm64.deb
+Size: 381348
+MD5sum: 65bec091997926509c511f2512e54973
+SHA1: 8ac94e4308623ded37e0b34ea24e3387891d1cfa
+SHA256: 73a2572fd3a10f9f888a686e76c1159d34a59ff8278a51d41ff373c513854672
+SHA512: 5661622ce332b1138a7903e0602ab9f7fdf0f7fe6a18351c638ca8da77c924c3e501d6d340b1854349f188d31b13ecca5d9d20b90ff5453cf6cce17341ad353e
+Description: FUSE unreliablefs mounter
 
 Package: upx
 Architecture: aarch64
