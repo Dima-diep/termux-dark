@@ -50,6 +50,19 @@ SHA256: a470361296abed4b4cb910d778971c3f0eadb5b8a76c0585f26a8d177091cc2c
 SHA512: a931eff61b11a320dcb0c58650efee25eef1c512e8b0834d2f3eb8921b5dcda68abbc4015128cfa3e660176333dd75de04dbf0651bbecd319ba00f0adc3a7c80
 Description: FUSE chunkfs mounter
 
+Package: dec2hex
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 15
+Filename: ./dec2hex-armhf.deb
+Size: 5268
+MD5sum: f1d0c48bc1729be6f2d3d0714584fbc2
+SHA1: 9697c1b1264a6164f859a359d3b442c4bca805f9
+SHA256: 31b9867f90a3ca39626c3b95a3fffa973cf5584e55eede8722c12285e01d1c38
+SHA512: a503d5fff504a1ef473a52e52e83f98b5ce1a9953500be26b50ab761c3c760f0075df96582a80e2552816c642a3d7fac8474a69708ae6aab7d07497bc6ef6919
+Description: Converter DEC to HEX
+
 Package: exfatprogs
 Architecture: arm
 Version: 1.0
