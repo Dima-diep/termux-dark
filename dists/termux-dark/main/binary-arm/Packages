@@ -78,15 +78,15 @@ Description: exFAT static-built utilities
 
 Package: hex2dec
 Architecture: arm
-Version: 1.0
+Version: 1.1
 Maintainer: @Dima-diep
 Installed-Size: 7
 Filename: ./hex2dec-armhf.deb
-Size: 3104
-MD5sum: 814c30b8bfd4d0898bc7663c85c774ed
-SHA1: 5149d7d5d3c82521d595a1ba7106a3db51f38570
-SHA256: f1a58e3b28efb7c8b7a20ec5f80182c846d6603e3b57f39393cb3bb7798451a7
-SHA512: f36e15a41d7841e8148f294a445c946308f1a57746483791d7e2089fc895acb9d35e4189857042317692dab0814edb0e4d308fd19d1d280fb50a766a62373d2d
+Size: 3136
+MD5sum: 8e14e0b623fb518f240ba2bfe075ea4a
+SHA1: 13dc0d01c52f63c575a721633aa6b3e9e0a4dc2a
+SHA256: e037bf5dad9e2ac839c1383ab2ba84a858b291cc6e4486cbadbda754ae1bf456
+SHA512: 0c7d03c19b7351a09e9e06d45c3ef88e1418c1c551069c54efbc40595efc9de2946a276fedea99c5e852a805d168545ab8164d5eed816147443241b3cc449d07
 Description: Converter HEX to DEC
 
 Package: httpfs2-fuse

@@ -93,15 +93,15 @@ Description: A simple program to get geolocation of Wi-Fi access points by their
 
 Package: hex2dec
 Architecture: aarch64
-Version: 1.0
+Version: 1.1
 Maintainer: @Dima-diep
 Installed-Size: 37
 Filename: ./hex2dec-arm64.deb
-Size: 12996
-MD5sum: 9180bb8a51e34cbac83f0ca2b4e933d8
-SHA1: 049be1e29694c9b2659945029f0538af16f86d9c
-SHA256: e791949adc797211833e61d9f2975157be2e3dc664e00308d252b64976a33ace
-SHA512: b3dbe23d118a0548ef4a3b2904335787d3f83d176c54aeae4177fb396f05bd12d5545c0f5842918e361e36ecec61d0acc1def5c5c6c7f17fef37d2bc001453f1
+Size: 13012
+MD5sum: 73ea34ae161ff9282a85384a52fca268
+SHA1: 94011fba6099ae1180e7fb0d50d04e06305bd490
+SHA256: 70b2822e7c77992ede7cbff13844e579bd7b1e86480506f7622f5817fcc0285b
+SHA512: 71df71c58938115199a03add0121248b23466252aa60e47092da2b4e8ad81d9d47d4758a1c394419d0e5509d8f8d2fb2384f6a38e983288df2c9c346369eae0f
 Description: Converter HEX to DEC
 
 Package: httpfs2-fuse
