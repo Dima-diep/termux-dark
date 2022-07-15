@@ -207,6 +207,20 @@ SHA256: a266a9aca727ab0bb5aab2ac65b8dec95b667cfe865c08e8441f860f6f70f891
 SHA512: 29de9f62873fef5515575ed477534f5345926e2d66b2128c7c78a08a5dd0f7c43d37649d545b3a5ba116a86ccc9627ae59e96eb44f34b707f323ab5c150d58a4
 Description: rotatefs FUSE mounter
 
+Package: sudo
+Architecture: arm
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 37
+Conflicts: tsu
+Filename: ./sudo-armhf.deb
+Size: 11360
+MD5sum: 6ded821b642c75bbbcd0abe3d8f29f88
+SHA1: 45d022cac612fd6b5871143e7668660d2605ea83
+SHA256: fdd515791ce4b6f8fddab53b0017a72064289b111a23baf6b0cda8579e236ad4
+SHA512: b3e5bc9d00db2d7cac400592b283d6eed34f4e6d206010674ce1744f9e5114a97045192aa7f358e2bc01c934ffeedbd15ede81e08cf69af59948a1cefe3beb71
+Description: Termux version of sudo binary
+
 Package: unreliablefs-fuse
 Architecture: arm
 Version: 1.0

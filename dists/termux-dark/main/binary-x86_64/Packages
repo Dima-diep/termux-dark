@@ -37,6 +37,20 @@ SHA256: e62c850716700e7a60a2691cbd1cece5c54c82379854fd7c896b435f6801d123
 SHA512: a77002dc7e356d49c3d38eee851410771e612a1607655f59271e713b293a80e049e7ab383fa1daa7c07b086a5cb62e70fb7df153e9dec556a163a899adef7d60
 Description: Meefik version of Busybox
 
+Package: sudo
+Architecture: x86_64
+Version: 1.0
+Maintainer: @Dima-diep
+Installed-Size: 79
+Conflicts: tsu
+Filename: ./sudo-x86_64.deb
+Size: 24896
+MD5sum: 14da9a4109fb07052521c273c0cef715
+SHA1: aebf92ac769ca53c74f43f5c2947c4767e9d16ac
+SHA256: 993c449413e213c2e3e0f1c955eee2e5115b82f34c81e404b45b5a85c3ad4b84
+SHA512: e1de47e5d766618aa7e6be0c745cd137a69793ed4ecbf8339cb8e1a1cccde07da9bb6a0be0731f142eb2f4962511390939aebfd143a60bc2167e6292e8b84c04
+Description: Termux version of sudo binary
+
 Package: upx
 Architecture: x86_64
 Version: 3.96
