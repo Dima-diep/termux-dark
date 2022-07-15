@@ -81,14 +81,14 @@ Package: sudo
 Architecture: i686
 Version: 1.0
 Maintainer: @Dima-diep
-Installed-Size: 55
+Installed-Size: 61
 Conflicts: tsu
 Filename: ./sudo-i686.deb
-Size: 20112
-MD5sum: f102f9cfb3ae5ca770eb5f60129425fb
-SHA1: a5d06eb6f252cec835e562d2792e8540c20e160e
-SHA256: d02fd6ec276a306582d5113e77718d4051eef626bc07bca4ad8cbac993bf01c2
-SHA512: 1f049f748681c4517dbbe725d27cdf5221afd0d4fc1d80a1652e2913cb6012cd719b7a792bb2ac95647483d072d1cc1f0fe8839eaa0a46d62369d373a30a197a
+Size: 21276
+MD5sum: e5c6988416fe74d577c43e1db7e561d9
+SHA1: f20d50da1b5d910cf0d30b216cc3cacbd30e2008
+SHA256: 6fb91e722e55770c501be380e33a674f3fc5686f2bbd1abfa8b781c93119382c
+SHA512: e28b8f11886fa3d43def63029b9b3a2c27dd37f5023b8d7024acc3b5202e4069f564f3d1eda153bdbcbd61189d583d870f5521d131372d9ff1f3bfe9470a41f9
 Description: Termux version of sudo binary
 
 Package: upx

@@ -211,14 +211,14 @@ Package: sudo
 Architecture: arm
 Version: 1.0
 Maintainer: @Dima-diep
-Installed-Size: 32
+Installed-Size: 21
 Conflicts: tsu
 Filename: ./sudo-armhf.deb
-Size: 10736
-MD5sum: 59a82991b58d8283110db8cd2345d5ff
-SHA1: 7f63a484198d2be51fc52cbbf7deb8cb73da2fc6
-SHA256: ab2850d453f765e2207213ac536982e472fb1c9b51b14592ec8889fc427a5324
-SHA512: b1daccfda9508b04c48138b075a3c914905763f3a2a09b2ff37c7187305e3e62cf048b9b8333b49cd0f99141f7e06d32073f3fe5b1d7a0a52f951c5b07a1fdb5
+Size: 6780
+MD5sum: 10c08365211ac6457e2cc061dbc54d3c
+SHA1: 2d912d4565738cdd7d5af4a5b327bd656fd25934
+SHA256: 211412ce8aa62d26f3244b07f76f283b086e9ea900b9651e39092db8d46724d9
+SHA512: 714a9a98369aa89bdb7b0cd8d6f4d3fec89e2b015f84cbe87854e06a02bce97ed537e20f88fc8fb5c38cb73d45ea4b7ab89ed12662adbedebc611b6c191e4161
 Description: Termux version of sudo binary
 
 Package: unreliablefs-fuse

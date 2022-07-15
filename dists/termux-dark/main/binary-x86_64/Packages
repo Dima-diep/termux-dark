@@ -41,14 +41,14 @@ Package: sudo
 Architecture: x86_64
 Version: 1.0
 Maintainer: @Dima-diep
-Installed-Size: 56
+Installed-Size: 57
 Conflicts: tsu
 Filename: ./sudo-x86_64.deb
-Size: 18884
-MD5sum: 03f6fbdcd6d074299d5d7049f6c9700c
-SHA1: 2785ee7aa2b01420d07a7a077e14fa917e207125
-SHA256: b01dde40f88cb10b2dbd2cb66d1c96614967abb99df4cc7eb1e3742afadc9986
-SHA512: b4435dc104b5a86d44dd851d3718e514531a30da590f186e065c1b21824d35ca79735c55a04143855d71a00e042426bd25141966d8f189c73792b4c2e5196f10
+Size: 18948
+MD5sum: 4f23db3ae2995dfdb1be2b711439eb04
+SHA1: a3aed3957ef7da6ba505131ca589e6944118e5ee
+SHA256: 52cc0fdf066413ca260a57aa7ce74812d235e09078e4e3e100f1e5025dcf14da
+SHA512: be068e7b47413fcdb9ef73118d57734a93d36f71cab9a3440863f7d05bd9df26650c89363eb68a089b4e1bb36d7ec242099b29da97315089fe85d270693eb952
 Description: Termux version of sudo binary
 
 Package: upx
