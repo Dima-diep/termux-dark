@@ -77,20 +77,6 @@ SHA256: 15238d9a6b3454c7b9d1f169a6595c598cdd521b4c476b3f0883f7aa5bb58a57
 SHA512: 64ac7607d773fa29d46e13585c9ee7cdc9ebbd747456836c8689897b46786d8805d5e624f874f771d358759ab63867b41ca187b235d9fb5fcf07b6fb1ed93ab1
 Description: Static bootimg utilities
 
-Package: sudo
-Architecture: i686
-Version: 1.0
-Maintainer: @Dima-diep
-Installed-Size: 61
-Conflicts: tsu
-Filename: ./sudo-i686.deb
-Size: 21276
-MD5sum: e5c6988416fe74d577c43e1db7e561d9
-SHA1: f20d50da1b5d910cf0d30b216cc3cacbd30e2008
-SHA256: 6fb91e722e55770c501be380e33a674f3fc5686f2bbd1abfa8b781c93119382c
-SHA512: e28b8f11886fa3d43def63029b9b3a2c27dd37f5023b8d7024acc3b5202e4069f564f3d1eda153bdbcbd61189d583d870f5521d131372d9ff1f3bfe9470a41f9
-Description: Termux version of sudo binary
-
 Package: upx
 Architecture: i686
 Version: 3.96
