@@ -191,31 +191,29 @@ Description: WiFi pentest tool
 
 Package: termplayer-mpv
 Architecture: all
-Version: 1.3
-Maintainer: @StalinKali
-Depends: mpv
-Filename: ./termplayer-mpv_1.3_all.deb
-Size: 1172
-MD5sum: b7625971ebb48b25d8d9c775d4a9494c
-SHA1: ad89f9ba2fb371de7ceee7887550806731b4621b
-SHA256: 0ce17be997c7dfa018bf14966b01d339418b767719a32c7e310eb393751105d1
-SHA512: e8b80c5947c2646059815591f999d03d277be4c7e73dab18a42e08af87e9725c41888ea4b7382a22746dafe023cbdaae80869d301a6cd11228e564553feb439d
-Homepage: http://notabug.org/StalinKali/termplayer
+Version: 1.4
+Maintainer: @Dima-diep
+Installed-Size: 1
+Filename: ./termplayer-mpv_1.4_all.deb
+Size: 1136
+MD5sum: 5e09602573f8c69fae48b58810baea64
+SHA1: cbd35f2eecd33818ed9ae037084aad8962243d05
+SHA256: d2a49002f4d48acb4755015523a91fca0ed07b34839687e7575426449dead8b3
+SHA512: 2b283b97675ec4d07950440327cbcbff9bbb2b8f834c3adf2e50fe8aaaee474d265c85194464d960d40f2d7d468def7d6e03dafbd2a128c4ae141109792c7d49
 Description: MP3 Player for Termux (on mpv)
 
 Package: termplayer-sox
 Architecture: all
-Version: 1.3
-Maintainer: @StalinKali
-Depends: sox
-Filename: ./termplayer-sox_1.3_all.deb
-Size: 1128
-MD5sum: 789afc94367ff933ca5bc5a2908f93f7
-SHA1: 0b7c35403739003de9479d3a6456e62c59189b14
-SHA256: 44cc772ac4c78228bc735b9a5fef5e2a417e30e65837681d43b67daa69dafa92
-SHA512: b3b15f96718f4fc23a04df4cf8e33286ef916e2309ceca5495663828e4a78728153078d1b598730aff1f47f32f59e424be3d52a82b325fe716df89dbd82603bd
-Homepage: http://notabug.org/StalinKali/termplayer
-Description: MP3 Player for Termux (on sox)
+Version: 1.4
+Maintainer: @Dima-diep
+Installed-Size: 1
+Filename: ./termplayer-sox_1.4_all.deb
+Size: 1140
+MD5sum: e5956c3226391139521c5a9cf70ed90b
+SHA1: 2e546ce0ff327daeca8399f9fc402a84b91bd6b0
+SHA256: 230ed90f4c4be5896fc7de4663533c837fc515075dd1e61a6f0057ae1bf89703
+SHA512: 9407b1ea8443a20a84e4be5978cce42b8da916c693495eff9a0d96da3482c3ff0d55a0e82f43f6d4686b11e94205928834b0027d3e7359b1b3dfaed4f49e4032
+Description: MP3 Player for Termux (on mpv)
 
 Package: termux-gui-package
 Architecture: all
