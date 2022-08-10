@@ -94,6 +94,21 @@ SHA512: d7cab5778ca7aec571fbc8df9d906cb75753c834070bb9818433cbc70780088df7839d2f
 Homepage: https://github.com/Dima-diep/termux-dark
 Description:
 
+Package: ldd
+Architecture: all
+Version: 2.38
+Maintainer: @Dima-diep
+Installed-Size: 1
+Depends: binutils-is-llvm
+Conflicts: binutils
+Filename: ./ldd_2.38_all.deb
+Size: 964
+MD5sum: 53568b83de0a8615f272ded0a66654c1
+SHA1: d0c01d400b338db5e94a66bbda42ce5e4b16cbc7
+SHA256: 24ced92bd1b36fa1406f9a4d56d34b17d6b8f8a8b2010d2011e2f977d7def241
+SHA512: 2b5cdd419463b3317e407ab828fec23aa383d926017b553e66c6e9501ebeb09b66bda7369dc225679868e93ed977fa9d85563ab34b7ed8f00598e02ff79beec3
+Description: ldd Termux script
+
 Package: linux2
 Architecture: all
 Version: 1.0
