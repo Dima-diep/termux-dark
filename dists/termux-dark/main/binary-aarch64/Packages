@@ -52,15 +52,15 @@ Description: FUSE chunkfs mounter
 
 Package: dec2hex
 Architecture: aarch64
-Version: 1.0
+Version: 1.1
 Maintainer: @Dima-diep
-Installed-Size: 50
+Installed-Size: 36
 Filename: ./dec2hex-arm64.deb
-Size: 15996
-MD5sum: 201e4e3e60bf5f20ff422b53927487d4
-SHA1: 77b8de0b473f995fc3156e5b78a177f3597a6087
-SHA256: fa782e6ec8003fee87094c842e04ed4af5a588b677ae63d6626567fd31389fa3
-SHA512: 37c0ed7b4beeeb9fb32c8f98e340c878e910c5086e18ee0b463d5ff59c39e7e6123f7fb78810c313c3c7296a080faed7b3e82879eee8cb929149a010c79a4bc0
+Size: 13004
+MD5sum: 6cf9356052cffbf4b21310e527359fa7
+SHA1: 80f3af834022f79bfe89dae15dd6fb88dab91668
+SHA256: 17b8da66e03a48a90ea09795225dad34a4e2504306f084d0ba274e08925daa5f
+SHA512: 8d9bfc92f0a534a8e6b91e8406316a2570dca5f3bd7ba6c9a74f0aaa4f4cb267c5e22b124e5a6367ae7491bd1b851bac1200f942318c0f2fb07b2d399ad82b76
 Description: Converter DEC to HEX
 
 Package: exfatprogs
@@ -95,13 +95,13 @@ Package: hex2dec
 Architecture: aarch64
 Version: 1.1
 Maintainer: @Dima-diep
-Installed-Size: 37
+Installed-Size: 34
 Filename: ./hex2dec-arm64.deb
-Size: 13012
-MD5sum: 73ea34ae161ff9282a85384a52fca268
-SHA1: 94011fba6099ae1180e7fb0d50d04e06305bd490
-SHA256: 70b2822e7c77992ede7cbff13844e579bd7b1e86480506f7622f5817fcc0285b
-SHA512: 71df71c58938115199a03add0121248b23466252aa60e47092da2b4e8ad81d9d47d4758a1c394419d0e5509d8f8d2fb2384f6a38e983288df2c9c346369eae0f
+Size: 12496
+MD5sum: ebd7c5c7f3b97866013776825d65dc30
+SHA1: 4054ab39b59ffe2b635247a2847f077e9e6bfaf5
+SHA256: e812ffd6af7201afb4d5158ade047e31b1737b1da20b428ba76ad98f2afd0ef7
+SHA512: 2dedfca41c756d26fc3c83b5c0636b0837113855bc787ebb43d4083219490a9044647556d4cb916ea0358779431380ada0e07c02622a263744d515836e7bacff
 Description: Converter HEX to DEC
 
 Package: httpfs2-fuse
@@ -250,16 +250,16 @@ Description: rotatefs FUSE mounter
 
 Package: sudo
 Architecture: aarch64
-Version: 1.1
+Version: 1.2
 Maintainer: @Dima-diep
-Installed-Size: 77
+Installed-Size: 51
 Conflicts: tsu
 Filename: ./sudo-arm64.deb
-Size: 23028
-MD5sum: af0b6a726dab98347f9c68e1239eeb3f
-SHA1: cca9616fd97df4c0fe511d3d42f820aee641a77c
-SHA256: c7aafd060a25743533f4965e7e8ce69bb2ad32c3ad05a24df151ffb8ef497567
-SHA512: 68eeab3f34712a4322f1894d206a6fd6835e80ba76ea8b940b743aaa9da05c88e9d60b67569f04bdb862cc93b4d1cf2e908f9f09bdbd9cb3491ca5142dfe1f05
+Size: 17792
+MD5sum: 973d6741fc34128eab15f812c1ec27ce
+SHA1: 91668ac93c910cc3e89d096237c0923047b1e752
+SHA256: 63b0c5fe34a1223f7cb7015c615b48ae7cb74c8f82f63950c4d64f18fe962c53
+SHA512: c463190f3662d3db114edbc0f4c66cc24ac273c968fbb7a059fa6202be3836a2614762befd2d38a0066603cd9adcde63af39d9ed86fba6963946f5408730fd29
 Description: Termux version of sudo binary
 
 Package: unionfs-fuse

@@ -39,28 +39,28 @@ Description: Meefik version of Busybox
 
 Package: dec2hex
 Architecture: i686
-Version: 1.0
+Version: 1.1
 Maintainer: @Dima-diep
-Installed-Size: 787
+Installed-Size: 37
 Filename: ./dec2hex-i686.deb
-Size: 293052
-MD5sum: a1b13748d0e954936c70e5300510dbe4
-SHA1: 4814e5813136a9d820493282721ef7b60915649c
-SHA256: d6abf142a06d3a30dfd161b95577a81b78917fbbd4a81a273a0b343514dde7c3
-SHA512: 95cbaa657188cd9772b3f336f0f83dde33e555827b8ceda57e61738a40d3240629081eb0f5e8b8c42f6ded9418fd3d8e8b8185508cbf23fe63fa8b7de4ab258d
+Size: 15372
+MD5sum: c4e951d510dab6ec18ca47d95805b15c
+SHA1: 6955c785a23f96800211f472f545576da9d399e0
+SHA256: ce4e86b4a685914bf892e60fb33dfdbb7649ff6d72c2398b59c114b4f6a76ef9
+SHA512: 0c453acd3cebdbc90813e5306f51724d83ed9028e705fc7fba126d89f72be696432e7531af513e6fa96ccfd479672e97e19ee7b9bfabf09512b533d16fe6ef8c
 Description: Converter DEC to HEX
 
 Package: hex2dec
 Architecture: i686
 Version: 1.1
 Maintainer: @Dima-diep
-Installed-Size: 779
+Installed-Size: 36
 Filename: ./hex2dec-i686.deb
-Size: 290928
-MD5sum: fe1cc35e5146c2e43f3a66aeca3cef93
-SHA1: d040d892325a189eb8f790794a1a8b2c1c41816b
-SHA256: aa428a523639c18df12c6a5dfb02244d526f219745fb4cbe246b5aed4ce96a32
-SHA512: 026160c3dde3b24d815d3a2cee0d0dfb45f72193e4d4568cc72c5fee203ac4ca562e71e2f7be458996adccc9c747569db782fa456c801eeb3405ee3892e49af0
+Size: 14792
+MD5sum: 99f597789cd90af69029ab0654eeca06
+SHA1: 2efd2703ca16f45a581188036bd28b8234ad060b
+SHA256: 5f0142011f26fad5a65984cb85d6b10b248bcd6ba9cd426e039ac8399ea92fb9
+SHA512: 951f51814d9df5aece07b69c19ea4edc7a164a094d7e008b5657c8065ebec6220ab4102fb951277ced6e2f87b1711ef13d69578d23083f85c79cb7b6dbfa0fe4
 Description: Converter HEX to DEC
 
 Package: mkbootimg-static
@@ -79,16 +79,16 @@ Description: Static bootimg utilities
 
 Package: sudo
 Architecture: i686
-Version: 1.1
+Version: 1.2
 Maintainer: @Dima-diep
-Installed-Size: 83
+Installed-Size: 52
 Conflicts: tsu
 Filename: ./sudo-i686.deb
-Size: 27828
-MD5sum: f1b78580fc29b718907f8751314ef4a8
-SHA1: 48c633fff95a0f9352137d3ed30d022a78c90bcc
-SHA256: c3c75a1a443f323631995a3a91f40fd208f94e17306e432af8235566715f46bc
-SHA512: 57b662d3da61e67e1e5f085935b5d3ffe3271cb274527785d1d244cdd84ef918005d1da327eafd7ebe6517ab1f827ca4bd86ec9e835bf818b3833ff58a32d17d
+Size: 21288
+MD5sum: 38079b32d2c57152375a0da778bb8987
+SHA1: 9b7177b2c23aee2c041f4088963e2b21f8cd3da3
+SHA256: 1ce23c8e7cef60c327e2d742037cc72d232851efe25baf90b8e5df180b33629a
+SHA512: 17850148b6d9ae0b3920fa1e67af5059ac7ac4ed539c2134096ff729dc0ecc73b5d12831123bdab86ed94cfde128bdcbb6dfd32b201bfe7790861d42b72717c9
 Description: Termux version of sudo binary
 
 Package: upx

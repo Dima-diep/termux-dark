@@ -37,18 +37,44 @@ SHA256: e62c850716700e7a60a2691cbd1cece5c54c82379854fd7c896b435f6801d123
 SHA512: a77002dc7e356d49c3d38eee851410771e612a1607655f59271e713b293a80e049e7ab383fa1daa7c07b086a5cb62e70fb7df153e9dec556a163a899adef7d60
 Description: Meefik version of Busybox
 
-Package: sudo
+Package: dec2hex
 Architecture: x86_64
 Version: 1.1
 Maintainer: @Dima-diep
-Installed-Size: 79
+Installed-Size: 36
+Filename: ./dec2hex-x86_64.deb
+Size: 14000
+MD5sum: a80df0b5c6e39ec2f94c6eac4dcfc32d
+SHA1: 18d12e72ea3a03d467fa7a8a759c24374615449d
+SHA256: b1d1fe14a7376ebe1e912b1f0d0dd852f355376b254383e4adff535a4464b7cc
+SHA512: 490627bba9e536e3da5a1a20d4c19afcd35f3dd812960864228b40cd5365ec23dba0f72bc585c0980c2e1fab91eaa91bf4ef38c3743036e7fb4715f1a99c3027
+Description: Converter DEC to HEX
+
+Package: hex2dec
+Architecture: x86_64
+Version: 1.1
+Maintainer: @Dima-diep
+Installed-Size: 35
+Filename: ./hex2dec-x86_64.deb
+Size: 13364
+MD5sum: 7d8f0a35c3b677d6dc317ca028d45c43
+SHA1: f06468f40e181d98129cfe7c6f0f5701dfe3cae1
+SHA256: e47cc8665c7de12c06bed383ebb57bae42e617b33f1bbaf981233e875657820c
+SHA512: abef8954050287e60c4edcbce8855b4a6d4cb76d70eda0247022cad71f8d73a4b174c72cf1bc69007987c342a0d21dc7fcd66e661d99c36ffe102b7b43f061cd
+Description: Converter HEX to DEC
+
+Package: sudo
+Architecture: x86_64
+Version: 1.2
+Maintainer: @Dima-diep
+Installed-Size: 52
 Conflicts: tsu
 Filename: ./sudo-x86_64.deb
-Size: 24876
-MD5sum: a9b421f8bf22d8670944e75cb28d31c0
-SHA1: 29c33c12b1d82069d7b5ed44034a2c49168783cb
-SHA256: 06fa6689489e622c5b49e3c7a528f494a7f29851e268bd658ba6e7e316e271b3
-SHA512: e5de5fce62876dc88e507daded08ee126b84acde59b3282a5ee26040a2e4ef5e4a96aaaa8d8746160160ec83f37711436bc041d38caf22fea8d7090924023bab
+Size: 19404
+MD5sum: 808c0ab071a951ef56654631cb09ec3b
+SHA1: 30e8f8bebc679b2fe875a273618d42b73bfde086
+SHA256: d71541c180da47ff57205e49eab5fe4edd9d88a40608f7c541007dd33f638e46
+SHA512: a575092c7954cee9c9cb2f2c6019a3b069b32487e87e561c5633b7161b7e0bcb60ec7aea2da1159f04a4a3b507f19bd8b9109da73f5b4db51d60da441eaeb0a4
 Description: Termux version of sudo binary
 
 Package: upx
