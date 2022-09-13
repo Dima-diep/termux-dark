@@ -130,6 +130,19 @@ SHA256: 82be3343e7a8db233ecd76b0da537fe478ba5931e6d21faaf4c5465bc6373497
 SHA512: cb14ac300c868722d4ce76013ac9ec94aa42a6e51e5c2c29036406598c49f5c6a5471ab5191feb279e65ca79bcf49669d26e04ed6c7af36d0c772700d5edd51b
 Description: juicefs FUSE mounter
 
+Package: libspng-dev
+Architecture: aarch64
+Version: 0.72
+Maintainer: @randy408
+Installed-Size: 566
+Filename: ./libspng-dev_0.72_aarch64.deb
+Size: 98992
+MD5sum: 271e58c74066cda544f4da8c2f47d1b0
+SHA1: 5c949c36f28d5806094aa17352e2ed8200a9d84e
+SHA256: 15ff0e00cb8c60348a17d652cf753f3013cbd9326bf6b5c9a8132ab1bfc8fc05
+SHA512: e85e97ae6f9c32f2b385fde65a87ed618065a162d3c71ee5b8e996e9b94a3cc74389ec0e3a3297e55a2b0753d0f96fa9e29cb50346c382437a15bf94deb17ffa
+Description: Library for working with PNG on C++
+
 Package: loggedfs-fuse
 Architecture: aarch64
 Version: 1.0
