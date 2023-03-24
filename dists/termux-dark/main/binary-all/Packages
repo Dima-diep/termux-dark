@@ -137,19 +137,6 @@ SHA512: 2f1c9bb6b3fb854b260e0e4d0e70b459d900bb5c4203d414a2bfcf790c689450bff96643
 Homepage: https://github.com/Dima-diep/termux-dark
 Description: Installer proot-system in Termux
 
-Package: lsd
-Architecture: all
-Version: 1.0
-Maintainer: @Peltoche
-Filename: ./lsd_1.0_all.deb
-Size: 6738340
-MD5sum: 8b3e4104772eb414592df369fb582d69
-SHA1: 82c6f2f874316b90f279b771ace15d528ec1fabb
-SHA256: 08e6471cb636fb85d37b3e31862c7b5f465ffd6ffdcc15d6c0c0a1bcaa4416de
-SHA512: 3b4f3db206619bc22fb6a756e9d64b840b6fc8ee1d91725c67c8d89a731755054fc17aaac74d076449b2d350f73da79b33b281a23b1f6dc5cfede78f8d14748a
-Homepage: http://github.com/Peltoche/lsd
-Description: ls
-
 Package: malamgulita
 Architecture: all
 Version: 1.0
