@@ -130,6 +130,32 @@ SHA256: 82be3343e7a8db233ecd76b0da537fe478ba5931e6d21faaf4c5465bc6373497
 SHA512: cb14ac300c868722d4ce76013ac9ec94aa42a6e51e5c2c29036406598c49f5c6a5471ab5191feb279e65ca79bcf49669d26e04ed6c7af36d0c772700d5edd51b
 Description: juicefs FUSE mounter
 
+Package: libsepol-dev
+Architecture: aarch64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1527
+Filename: ./libsepol-dev_3.4-2_aarch64.deb
+Size: 274788
+MD5sum: 1793786d6b0e75264e5371caabd37b84
+SHA1: 27c6a89fd495309e153631804d0d5cedcdd28017
+SHA256: 05de2d552a507644ab46a1dd6d6f2af98ee128f8644785a726dde3bb4083c4c2
+SHA512: a7f82892472e65fb38c33ca1ba039c7069b24552c2d65f7f9b81e68feb9669f32f09e7c37cc811dd98fa2484146143d386c806df51b4cc1773b261e08a43166b
+Description: Library and headers for working with SELinux policy
+
+Package: libsepol
+Architecture: aarch64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 801
+Filename: ./libsepol_3.4-2_aarch64.deb
+Size: 234616
+MD5sum: 786709e4be1f0132c20127c95737ed43
+SHA1: 3d04c4075a5fed6833bbe8e18c4ea94d1688a784
+SHA256: 0eda20cf5f5bd09caae64d7e106177cc2f477ce24668b7c3f1d8ed8011cf18c9
+SHA512: fbf0c7df382a3dba25aed596843c7b8c4023b814b7c0343cbfd29810bc36f019ddc791668caeb6f50d20f94fa63dea68a85aabf7bf0e5f47f49909040debd7f7
+Description: Library for working with SELinux policy
+
 Package: libspng-dev
 Architecture: aarch64
 Version: 0.72
@@ -260,6 +286,47 @@ SHA1: b136347ee5a7640177ffd931776221605eed00bd
 SHA256: 7ccfa876d2f7188b0aae59fc4ff2caecc02420901ced5f277b8a2c0d99428eeb
 SHA512: aff25ce4e341cad5807680f3b386dc706f2b62584630c6ba249b055d50ed37a66257e84ff5176f59177c62b90d2b1345f7d3ed51095e4b32b4edeba78cc1909c
 Description: rotatefs FUSE mounter
+
+Package: secilc
+Architecture: aarch64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 1727
+Filename: ./secilc_3.4-2_aarch64.deb
+Size: 245172
+MD5sum: e6dc14be6e6d44aac52b518e9fd25b01
+SHA1: f0c2e0da5bc0f5c9258348a466e3aa2f5e804688
+SHA256: d800dedaafb37fc417bcfa82e29e619ad32932776621ec6f3403a6a3f2702060
+SHA512: 733d8743fd2d09ff403d0c594d1851e1ba3d1bf7b0bc72a6f7fb756c105ebd3728bbfab4b745ef96681e5b6679db4c71f6b5bba92e90e9d93fcffd56907b8042
+Description: SELinux CIL policy compiler
+
+Package: semodule-utils
+Architecture: aarch64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 823
+Depends: libsepol-dev (>=3.4-1)
+Filename: ./semodule-utils_3.4-2_aarch64.deb
+Size: 126716
+MD5sum: d5e9eaf9da41e0316e132e676d8677a7
+SHA1: 22870d2b925de4912d5438d4a1344d22aecbc110
+SHA256: e6baaeca2422704af12e3126a30744ee1a4c4867e6dcada8db93320ce3b43b51
+SHA512: be31575dabf03acc39baf32a1e62888d3e2afad82418c0ba4cbf8736f2f158d428055982aab36547eddc591c6d5efc02370c9dae791ed3d8f7e906919e721d1d
+Description: SELinux module utils
+
+Package: sepolicy-utils
+Architecture: aarch64
+Version: 3.4-2
+Maintainer: Dima-diep
+Installed-Size: 46
+Depends: libsepol (>=3.4-1)
+Filename: ./sepolicy-utils_3.4-2_aarch64.deb
+Size: 6232
+MD5sum: 87ea8d539a1421a26ae8312667c16abe
+SHA1: f967e9724423df11fcd6502b7a52db5f11519954
+SHA256: d4f2e9d523242e0e7b7c2782a0b8b5f4965cca5a83838024024003f19a0b4e42
+SHA512: 7ea67766c54a0e31abedd509b6eb5409cc84181d34b16747c56291cfb72319ba3d49d06017ce9fe0b6cab92277be18d1542d80118661d9cadaa5c2946e417414
+Description: SELinux policy utils
 
 Package: sudo
 Architecture: aarch64
